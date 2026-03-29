@@ -1,0 +1,24 @@
+[
+  {
+    "id": 154,
+    "levelBoss": 0,
+    "status": 0,
+    "x": 339,
+    "y": 470,
+    "paintMiniMap": false,
+    "hp": 981354244,
+    "hpFull": 1000000000,
+    "level": 0
+  },
+  {
+    "id": 154,
+    "levelBoss": 0,
+    "status": 0,
+    "x": 558,
+    "y": 471,
+    "paintMiniMap": true,
+    "hp": 879316187,
+    "hpFull": 1000000000,
+    "level": 0
+  }
+]

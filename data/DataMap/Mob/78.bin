@@ -1,0 +1,152 @@
+[
+ {
+  "hpFull": 51000,
+  "hpGoc": 51000,
+  "id": 180,
+  "isPaint": false,
+  "level": 54,
+  "typeMob": 0,
+  "x": 1083,
+  "y": 411
+ },
+ {
+  "hpFull": 51000,
+  "hpGoc": 51000,
+  "id": 180,
+  "isPaint": true,
+  "level": 54,
+  "typeMob": 0,
+  "x": 933,
+  "y": 411
+ },
+ {
+  "hpFull": 51000,
+  "hpGoc": 51000,
+  "id": 180,
+  "isPaint": false,
+  "level": 54,
+  "typeMob": 0,
+  "x": 783,
+  "y": 411
+ },
+ {
+  "hpFull": 51000,
+  "hpGoc": 51000,
+  "id": 180,
+  "isPaint": false,
+  "level": 54,
+  "typeMob": 0,
+  "x": 543,
+  "y": 366
+ },
+ {
+  "hpFull": 51000,
+  "hpGoc": 51000,
+  "id": 180,
+  "isPaint": false,
+  "level": 54,
+  "typeMob": 0,
+  "x": 453,
+  "y": 366
+ },
+ {
+  "hpFull": 51000,
+  "hpGoc": 51000,
+  "id": 180,
+  "isPaint": false,
+  "level": 54,
+  "typeMob": 0,
+  "x": 363,
+  "y": 366
+ },
+ {
+  "hpFull": 51000,
+  "hpGoc": 51000,
+  "id": 180,
+  "isPaint": false,
+  "level": 54,
+  "typeMob": 0,
+  "x": 1506,
+  "y": 359
+ },
+ {
+  "hpFull": 51000,
+  "hpGoc": 51000,
+  "id": 180,
+  "isPaint": false,
+  "level": 54,
+  "typeMob": 0,
+  "x": 1416,
+  "y": 359
+ },
+ {
+  "hpFull": 51000,
+  "hpGoc": 51000,
+  "id": 180,
+  "isPaint": false,
+  "level": 54,
+  "typeMob": 0,
+  "x": 1326,
+  "y": 359
+ },
+ {
+  "hpFull": 51000,
+  "hpGoc": 51000,
+  "id": 180,
+  "isPaint": false,
+  "level": 54,
+  "typeMob": 0,
+  "x": 829,
+  "y": 260
+ },
+ {
+  "hpFull": 51000,
+  "hpGoc": 51000,
+  "id": 180,
+  "isPaint": false,
+  "level": 54,
+  "typeMob": 0,
+  "x": 769,
+  "y": 260
+ },
+ {
+  "hpFull": 51000,
+  "hpGoc": 51000,
+  "id": 180,
+  "isPaint": false,
+  "level": 54,
+  "typeMob": 0,
+  "x": 1252,
+  "y": 251
+ },
+ {
+  "hpFull": 51000,
+  "hpGoc": 51000,
+  "id": 180,
+  "isPaint": false,
+  "level": 54,
+  "typeMob": 0,
+  "x": 1192,
+  "y": 251
+ },
+ {
+  "hpFull": 51000,
+  "hpGoc": 51000,
+  "id": 180,
+  "isPaint": false,
+  "level": 54,
+  "typeMob": 0,
+  "x": 456,
+  "y": 200
+ },
+ {
+  "hpFull": 51000,
+  "hpGoc": 51000,
+  "id": 180,
+  "isPaint": false,
+  "level": 54,
+  "typeMob": 0,
+  "x": 396,
+  "y": 200
+ }
+]

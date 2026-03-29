@@ -1,0 +1,262 @@
+[
+ {
+  "hpFull": 14000,
+  "hpGoc": 14000,
+  "id": 166,
+  "isPaint": false,
+  "level": 26,
+  "typeMob": 0,
+  "x": 1130,
+  "y": 482
+ },
+ {
+  "hpFull": 14000,
+  "hpGoc": 14000,
+  "id": 166,
+  "isPaint": false,
+  "level": 26,
+  "typeMob": 0,
+  "x": 1060,
+  "y": 482
+ },
+ {
+  "hpFull": 14000,
+  "hpGoc": 14000,
+  "id": 166,
+  "isPaint": false,
+  "level": 26,
+  "typeMob": 0,
+  "x": 990,
+  "y": 482
+ },
+ {
+  "hpFull": 14000,
+  "hpGoc": 14000,
+  "id": 166,
+  "isPaint": false,
+  "level": 26,
+  "typeMob": 0,
+  "x": 920,
+  "y": 482
+ },
+ {
+  "hpFull": 14000,
+  "hpGoc": 14000,
+  "id": 166,
+  "isPaint": false,
+  "level": 26,
+  "typeMob": 0,
+  "x": 850,
+  "y": 482
+ },
+ {
+  "hpFull": 14000,
+  "hpGoc": 14000,
+  "id": 166,
+  "isPaint": false,
+  "level": 26,
+  "typeMob": 0,
+  "x": 780,
+  "y": 482
+ },
+ {
+  "hpFull": 14000,
+  "hpGoc": 14000,
+  "id": 166,
+  "isPaint": false,
+  "level": 26,
+  "typeMob": 0,
+  "x": 710,
+  "y": 482
+ },
+ {
+  "hpFull": 14000,
+  "hpGoc": 14000,
+  "id": 166,
+  "isPaint": false,
+  "level": 26,
+  "typeMob": 0,
+  "x": 640,
+  "y": 482
+ },
+ {
+  "hpFull": 14000,
+  "hpGoc": 14000,
+  "id": 166,
+  "isPaint": false,
+  "level": 26,
+  "typeMob": 0,
+  "x": 570,
+  "y": 482
+ },
+ {
+  "hpFull": 14000,
+  "hpGoc": 14000,
+  "id": 166,
+  "isPaint": false,
+  "level": 26,
+  "typeMob": 0,
+  "x": 500,
+  "y": 482
+ },
+ {
+  "hpFull": 15400,
+  "hpGoc": 15400,
+  "id": 167,
+  "isPaint": true,
+  "level": 28,
+  "typeMob": 0,
+  "x": 1305,
+  "y": 352
+ },
+ {
+  "hpFull": 15400,
+  "hpGoc": 15400,
+  "id": 167,
+  "isPaint": false,
+  "level": 28,
+  "typeMob": 0,
+  "x": 1648,
+  "y": 326
+ },
+ {
+  "hpFull": 14000,
+  "hpGoc": 14000,
+  "id": 166,
+  "isPaint": false,
+  "level": 26,
+  "typeMob": 0,
+  "x": 449,
+  "y": 300
+ },
+ {
+  "hpFull": 14000,
+  "hpGoc": 14000,
+  "id": 166,
+  "isPaint": false,
+  "level": 26,
+  "typeMob": 0,
+  "x": 389,
+  "y": 300
+ },
+ {
+  "hpFull": 14000,
+  "hpGoc": 14000,
+  "id": 166,
+  "isPaint": true,
+  "level": 26,
+  "typeMob": 0,
+  "x": 329,
+  "y": 300
+ },
+ {
+  "hpFull": 14000,
+  "hpGoc": 14000,
+  "id": 166,
+  "isPaint": false,
+  "level": 26,
+  "typeMob": 0,
+  "x": 269,
+  "y": 300
+ },
+ {
+  "hpFull": 14000,
+  "hpGoc": 14000,
+  "id": 166,
+  "isPaint": false,
+  "level": 26,
+  "typeMob": 0,
+  "x": 209,
+  "y": 300
+ },
+ {
+  "hpFull": 14000,
+  "hpGoc": 14000,
+  "id": 166,
+  "isPaint": false,
+  "level": 26,
+  "typeMob": 0,
+  "x": 149,
+  "y": 300
+ },
+ {
+  "hpFull": 15400,
+  "hpGoc": 15400,
+  "id": 167,
+  "isPaint": false,
+  "level": 28,
+  "typeMob": 0,
+  "x": 1506,
+  "y": 291
+ },
+ {
+  "hpFull": 15400,
+  "hpGoc": 15400,
+  "id": 167,
+  "isPaint": false,
+  "level": 28,
+  "typeMob": 0,
+  "x": 982,
+  "y": 284
+ },
+ {
+  "hpFull": 15400,
+  "hpGoc": 15400,
+  "id": 167,
+  "isPaint": false,
+  "level": 28,
+  "typeMob": 0,
+  "x": 1140,
+  "y": 245
+ },
+ {
+  "hpFull": 15400,
+  "hpGoc": 15400,
+  "id": 167,
+  "isPaint": false,
+  "level": 28,
+  "typeMob": 0,
+  "x": 1391,
+  "y": 242
+ },
+ {
+  "hpFull": 15400,
+  "hpGoc": 15400,
+  "id": 167,
+  "isPaint": false,
+  "level": 28,
+  "typeMob": 0,
+  "x": 854,
+  "y": 235
+ },
+ {
+  "hpFull": 15400,
+  "hpGoc": 15400,
+  "id": 167,
+  "isPaint": false,
+  "level": 28,
+  "typeMob": 0,
+  "x": 678,
+  "y": 227
+ },
+ {
+  "hpFull": 15400,
+  "hpGoc": 15400,
+  "id": 167,
+  "isPaint": false,
+  "level": 28,
+  "typeMob": 0,
+  "x": 1252,
+  "y": 197
+ },
+ {
+  "hpFull": 15400,
+  "hpGoc": 15400,
+  "id": 167,
+  "isPaint": false,
+  "level": 28,
+  "typeMob": 0,
+  "x": 1020,
+  "y": 185
+ }
+]

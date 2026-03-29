@@ -1,0 +1,32 @@
+[
+ {
+  "hpFull": 1000000000,
+  "hpGoc": 1000000000,
+  "id": 154,
+  "isPaint": false,
+  "level": 0,
+  "typeMob": 0,
+  "x": 141,
+  "y": 477
+ },
+ {
+  "hpFull": 1000000000,
+  "hpGoc": 1000000000,
+  "id": 154,
+  "isPaint": false,
+  "level": 0,
+  "typeMob": 0,
+  "x": 310,
+  "y": 467
+ },
+ {
+  "hpFull": 1000000000,
+  "hpGoc": 1000000000,
+  "id": 154,
+  "isPaint": true,
+  "level": 0,
+  "typeMob": 0,
+  "x": 225,
+  "y": 467
+ }
+]

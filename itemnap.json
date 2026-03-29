@@ -1,0 +1,101 @@
+[
+  {
+    "isLock": true,
+    "quantity": 1,
+    "level": 0,
+    "expire": 604800000,
+    "index": 0,
+    "id": 237,
+    "nameCreate": "",
+    "he": 0,
+    "strData": ""
+  },
+  {
+    "isLock": true,
+    "quantity": 1,
+    "level": 0,
+    "expire": 604800000,
+    "index": 0,
+    "id": 834,
+    "nameCreate": "",
+    "he": 0,
+    "strData": ""
+  },
+  {
+    "isLock": true,
+    "quantity": 500000,
+    "level": 0,
+    "expire": -1,
+    "index": 0,
+    "id": 163,
+    "nameCreate": "",
+    "he": 0,
+    "strData": ""
+  },
+  {
+    "isLock": true,
+    "quantity": 0,
+    "level": 0,
+    "expire": 604800000,
+    "index": 0,
+    "id": 189,
+    "nameCreate": "",
+    "he": 0,
+    "strData": "0,300,600;1,300,600;2,30,60;5,30,60;167,30,60;258,30,60;414,1,1"
+  },
+  {
+    "isLock": true,
+    "quantity": 1,
+    "level": 0,
+    "expire": 604800000,
+    "index": 0,
+    "id": 445,
+    "nameCreate": "",
+    "he": 0,
+    "strData": ""
+  },
+  {
+    "isLock": true,
+    "quantity": 1000000,
+    "level": 0,
+    "expire": -1,
+    "index": 0,
+    "id": 163,
+    "nameCreate": "",
+    "he": 0,
+    "strData": ""
+  },
+  {
+    "isLock": true,
+    "quantity": 0,
+    "level": 0,
+    "expire": 259200000,
+    "index": 0,
+    "id": 896,
+    "nameCreate": "",
+    "he": 0,
+    "strData": "0,1500,2000;1,1500,2000;2,150,200;5,150,200;258,150,200;151,150,200;167,150,200;297,15,20"
+  },
+  {
+    "isLock": true,
+    "quantity": 1,
+    "level": 0,
+    "expire": 604800000,
+    "index": 0,
+    "id": 712,
+    "nameCreate": "",
+    "he": 0,
+    "strData": ""
+  },
+  {
+    "isLock": true,
+    "quantity": 1500000,
+    "level": 0,
+    "expire": -1,
+    "index": 0,
+    "id": 163,
+    "nameCreate": "",
+    "he": 0,
+    "strData": ""
+  }
+]
