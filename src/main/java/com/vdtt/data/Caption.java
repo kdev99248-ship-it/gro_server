@@ -1635,7 +1635,7 @@ public final class Caption {
         bg = "Không thể bán trang bị đã ép 5 sao trở lên.";
         bh = "Sau khi bán sẽ không thể phục hồi, bạn có đồng ý bán vật phẩm này không?";
         bi = "Đồng ý";
-        bj = "Né đòn";
+        bj = "Hụt";
         bk = "Bỏ ra";
         bl = "Trang bị sau khi sử dụng sẽ bị khóa, bạn có đồng ý sử dụng không?";
         bm = "Cất vào";
@@ -1873,7 +1873,7 @@ public final class Caption {
         fK = "Tải về: ";
         fL = "Phiên bản: ";
         fM = "Thử vận may";
-        fN = "Né đòn";
+        fN = "Miss";
         fO = " Ki";
         fP = " Ballz";
         fQ = " Xu";

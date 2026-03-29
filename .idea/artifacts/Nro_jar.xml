@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="gro:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/gro_jar</output-path>
+  <artifact type="jar" name="Nro:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Nro_jar</output-path>
     <root id="archive" name="Nro.jar">
       <element id="module-output" name="Nro" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar" path-in-jar="/" />
