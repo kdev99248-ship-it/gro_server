@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # --- Cấu hình ---
-JAR_PATH="./Nro.jar"
-LOG_FILE="Nro.log"
+JAR_PATH="run/Nro.jar"
+LOG_FILE="nohup.out"
 DB_CONTAINER="mysql57"
 START_DB_SCRIPT="$HOME/gro_server/database/start_db.sh"
 
