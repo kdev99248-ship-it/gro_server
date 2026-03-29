@@ -169,4 +169,5 @@ buildNumber.properties
 /loggame
 /checkVDTT.bat
 /config.properties
+/mysql.properties
 /login_notification.txt
